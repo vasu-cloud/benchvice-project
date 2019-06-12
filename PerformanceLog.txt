@@ -1,0 +1,6 @@
+Mesh Preparation:  0 hr 0 min 0 sec
+Copying bodies to mesh:  0 hr 0 min 0 sec
+CB Mesh surface mesh:  0 hr 0 min 2 sec
+CB Mesh volume mesh:  0 hr 0 min 1 sec
+CB Mesh arrange mesh data:  0 hr 0 min 0 sec
+Beam mesh:  0 hr 0 min 0 sec
